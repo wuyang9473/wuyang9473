@@ -1,16 +1,15 @@
-## Hi there 👋
+## 访问数：![hello](https://views.whatilearened.today/views/github/wuyang9473/deplives.svg)
+**About me**
+- 💬 Ask me about anything [here](https://github.com/wuyang9473/wuyang9473/issues)
 
-<!--
-**wuyang9473/wuyang9473** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![YouTube](https://img.shields.io/badge/YouTube-123456?logo=youtube&labelColor=ff0000)](https://www.youtube.com/@wuyangdaily)
+[![Bilibili](https://img.shields.io/badge/Bilibili-123456?logo=bilibili&logoColor=fff&labelColor=fb7299)](https://space.bilibili.com/20631180)
+<p align="center">
+  <img src="https://github.com/wuyang9473/wuyang9473/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 
-Here are some ideas to get you started:
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wuyang9473/wuyang9473/output/github-contribution-grid-snake.svg">
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![wuyang GitHub stats](https://github-readme-stats.vercel.app/api?username=wuyang9473&show_icons=true&theme=radical&locale=cn)
